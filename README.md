@@ -1,2 +1,2 @@
-# python_visualization
-Make visualizations with Python
+# Banking Data Analysis
+Perform EDA and visualizations with Python
